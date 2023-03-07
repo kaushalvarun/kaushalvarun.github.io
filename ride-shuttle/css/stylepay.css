@@ -1,0 +1,44 @@
+body {
+  background-image: url("https://i.ibb.co/CQCkMyq/bgimage.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white; 
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  line-height: 1.2em;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  line-height: 1.2em;
+  font-size: 25px;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  line-height: 1.2em;
+  font-size: 25px;
+}
+
+#footer {
+  display: flex;
+  align-items: center;
+}
+
+#logo {
+  fill: #FD6262;
+}
+
+#bottom-text {
+  font-family: 'arial', sans-serif;
+  font-weight: bold;
+  line-height: 1.2em;
+  font-size: 22px;
+  margin-left: 10px;
+}
